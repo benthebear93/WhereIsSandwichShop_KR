@@ -10,7 +10,7 @@ Tableau Desktop 사용
 
 
 <img src = './image/Seoul_subway_sandwichshop.png' width = '1000' height = '700' />  
-
+ 
 TODO
 - [ ] 추가 샌드위치 가게 시각화
 - [ ] 지하철 역 시각화
