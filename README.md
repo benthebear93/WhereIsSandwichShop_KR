@@ -1,6 +1,6 @@
 # 대한민국 Subway Sandwich 시각화
 
-대한민국 서브웨이 샌드위치 가게 시각화.
+대한민국 서브웨이 샌드위치 가게 점포분포 시각화.
 
 Tableau Desktop 사용
 
