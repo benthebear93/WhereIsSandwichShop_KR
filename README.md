@@ -9,7 +9,9 @@ Tableau Desktop 사용
 2. 개인 크롤링 ([listly 이용](https://www.listly.io/ko)) [서브웨이 홈페이지](https://www.subway.co.kr/)
 
 
-<img src = './image/Seoul_subway_sandwichshop.png' width = '1000' height = '700' />  
+<!-- <img src = './image/Seoul_subway_sandwichshop.png' width = '1000' height = '700' />   -->
+![Seoul_subway_sandwichshop](https://user-images.githubusercontent.com/34788458/164969849-50e2f573-247c-4ee0-8d24-4f2d0b5b4714.PNG)
+
  
 TODO
 - [ ] 추가 샌드위치 가게 시각화
